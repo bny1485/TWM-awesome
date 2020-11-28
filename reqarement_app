@@ -1,0 +1,5 @@
+sudo apt install nitrogen 
+
+sudo apt install compton
+
+sudo apt istall dmenu
